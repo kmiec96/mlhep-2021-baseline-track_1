@@ -1,0 +1,66 @@
+INFO:root:Loading checkpoint
+INFO:root:Loading checkpoint
+INFO:root:Loading checkpoint
+INFO:root:Loading checkpoint
+INFO:root:Loading checkpoint
+INFO:root:Loading checkpoint
+INFO:root:Classification model loaded
+INFO:root:Starting classification task
+INFO:root:ROC plot saved at: D:\Pulpit\ml_methods\mlhep-2021-baseline-track_1\results/roc_auc.png
+INFO:root:Delong => ROC-AUC: 0.8735681421080479 variance: 1.1324655437789113e-05
+INFO:root:MAE = 0
+INFO:root:AUC = 0.8735681421080479
+INFO:root:Loading checkpoint
+INFO:root:Loading checkpoint
+INFO:root:Classification model loaded
+INFO:root:Starting classification task
+INFO:root:ROC plot saved at: D:\Pulpit\ml_methods\mlhep-2021-baseline-track_1\results/roc_auc.png
+INFO:root:Delong => ROC-AUC: 0.9749602485977648 variance: 1.6025191283257418e-06
+INFO:root:MAE = 0
+INFO:root:AUC = 0.9749602485977648
+INFO:root:Loading checkpoint
+INFO:root:Classification model loaded
+INFO:root:Starting classification task
+INFO:root:ROC plot saved at: D:\Pulpit\ml_methods\mlhep-2021-baseline-track_1\results/roc_auc.png
+INFO:root:Delong => ROC-AUC: 0.9988273236008952 variance: 5.533320704655411e-08
+INFO:root:MAE = 0
+INFO:root:AUC = 0.9988273236008952
+INFO:root:Loading checkpoint
+INFO:root:Loading checkpoint
+INFO:root:Classification model loaded
+INFO:root:Starting classification task
+INFO:root:ROC plot saved at: D:\Pulpit\ml_methods\mlhep-2021-baseline-track_1\results/roc_auc.png
+INFO:root:Delong => ROC-AUC: 0.9748895749790506 variance: 1.6059866319944076e-06
+INFO:root:MAE = 0
+INFO:root:AUC = 0.9748895749790506
+INFO:root:Loading checkpoint
+INFO:root:Loading checkpoint
+INFO:root:Classification model loaded
+INFO:root:Starting classification task
+INFO:root:ROC plot saved at: D:\Pulpit\ml_methods\mlhep-2021-baseline-track_1\results/roc_auc.png
+INFO:root:Delong => ROC-AUC: 0.9988214240995031 variance: 5.5540573746464746e-08
+INFO:root:MAE = 0
+INFO:root:AUC = 0.9988214240995031
+INFO:root:Loading checkpoint
+INFO:root:Classification model loaded
+INFO:root:Starting classification task
+INFO:root:ROC plot saved at: D:\Pulpit\ml_methods\mlhep-2021-baseline-track_1\results/roc_auc.png
+INFO:root:Delong => ROC-AUC: 0.999714051095718 variance: 6.757896681318712e-09
+INFO:root:MAE = 0
+INFO:root:AUC = 0.999714051095718
+INFO:root:Loading checkpoint
+INFO:root:Loading checkpoint
+INFO:root:Classification model loaded
+INFO:root:Starting classification task
+INFO:root:ROC plot saved at: D:\Pulpit\ml_methods\mlhep-2021-baseline-track_1\results/roc_auc.png
+INFO:root:Delong => ROC-AUC: 0.9988216548699714 variance: 5.548541472941883e-08
+INFO:root:MAE = 0
+INFO:root:AUC = 0.9988216548699714
+INFO:root:Loading checkpoint
+INFO:root:Loading checkpoint
+INFO:root:Classification model loaded
+INFO:root:Starting classification task
+INFO:root:ROC plot saved at: D:\Pulpit\ml_methods\mlhep-2021-baseline-track_1\results/roc_auc.png
+INFO:root:Delong => ROC-AUC: 0.9983189340194747 variance: 8.942862277656991e-08
+INFO:root:MAE = 0
+INFO:root:AUC = 0.9983189340194747

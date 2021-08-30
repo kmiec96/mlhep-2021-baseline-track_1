@@ -1,0 +1,4 @@
+__pycache__
+train
+MLHEP-2021-test
+submission*.csv.gz
