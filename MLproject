@@ -1,4 +1,4 @@
-name: tutorial
+name: Default
 
 conda_env: conda.yaml
 
