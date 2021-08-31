@@ -1,0 +1,22 @@
+   | Name           | Type        | Params
+------------------------------------------------
+0  | layer1         | Sequential  | 448   
+1  | layer1.0       | Conv2d      | 416   
+2  | layer1.1       | BatchNorm2d | 32    
+3  | layer1.2       | ReLU        | 0     
+4  | layer1.3       | MaxPool2d   | 0     
+5  | layer1.4       | Flatten     | 0     
+6  | drop_out       | Dropout     | 0     
+7  | fc1            | Linear      | 1.8 M 
+8  | fc2            | Linear      | 1.0 K 
+9  | fc3            | Linear      | 501   
+10 | stem           | Sequential  | 1.8 M 
+11 | classification | Sequential  | 1.8 M 
+12 | train_acc      | Accuracy    | 0     
+13 | valid_acc      | Accuracy    | 0     
+14 | test_acc       | Accuracy    | 0     
+------------------------------------------------
+1.8 M     Trainable params
+0         Non-trainable params
+1.8 M     Total params
+7.210     Total estimated model params size (MB)

@@ -1,0 +1,4 @@
+mlflow
+torch==1.9.0+cpu
+torchvision==0.10.0+cpu
+cloudpickle==1.6.0

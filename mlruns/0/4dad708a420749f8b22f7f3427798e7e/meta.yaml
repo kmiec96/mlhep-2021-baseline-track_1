@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Pulpit/ml_methods/mlhep-2021-baseline-track_1/mlruns/0/4dad708a420749f8b22f7f3427798e7e/artifacts
+end_time: 1630403515907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 4dad708a420749f8b22f7f3427798e7e
+run_uuid: 4dad708a420749f8b22f7f3427798e7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1630403318131
+status: 3
+tags: []
+user_id: Aldona
